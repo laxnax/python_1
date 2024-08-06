@@ -1,4 +1,4 @@
-name = "Laxman KC"
+name = "Laxman"
 i = 0
 
 while(i<5):
